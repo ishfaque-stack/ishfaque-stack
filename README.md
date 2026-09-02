@@ -1,3 +1,6 @@
+<img src="<img width="2048" height="768" alt="ChatGPT Image Sep 2, 2026, 01_21_13 AM" src="https://github.com/user-attachments/assets/ec50588a-e4a4-4163-af34-5c05738a904b" />
+" width="100%" />
+
 <h1 align="center">Hi 👋, I'm Ishfaque J. Sultan</h1>
 <h3 align="center">A passionate Full-Stack learner developer from Bangladesh</h3>
 
