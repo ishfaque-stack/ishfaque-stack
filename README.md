@@ -4,6 +4,14 @@
 <h1 align="center">Hi 👋, I'm Ishfaque J. Sultan</h1>
 <h3 align="center">A passionate Full-Stack learner developer from Bangladesh</h3>
 
+About Me
+
+Hi, I'm Ishfaque J. Sultan, a student who has recently completed my SSC 2026 examination. I’m currently learning Full-Stack Web Development and working on improving my skills in both frontend and backend technologies.
+
+Besides coding, I’m passionate about debating and sports, which help me develop my communication, teamwork, and problem-solving skills.
+
+My long-term goal is to become a professional Software Engineer and build meaningful, innovative, and impactful technology.
+
 - 🔭 I’m currently working on **react**
 
 - 🌱 I’m currently learning **React,Next Js**
